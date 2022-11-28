@@ -33,5 +33,4 @@ The Python code is wrapped in a Jupyter notebook for convenient explanations and
 Below is a link to the Binder Environment for this project. It will allow you to run the contents of this lab without generating a new environment locally. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ericamarie9016/FEMA_Hazards/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/ericamarie9016/FEMA_Hazards/HEAD
+
