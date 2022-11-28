@@ -15,6 +15,7 @@ This notebook is intended for educational purposes. Student authors practiced th
 - dataset research
 - data subsetting
 - plotting
+- data visualization 
 
 ## Setup
 The Python code is wrapped in a Jupyter notebook for convenient explanations and code aside. The following **packages** were utilized during this analysis:
@@ -24,7 +25,13 @@ The Python code is wrapped in a Jupyter notebook for convenient explanations and
 - zipfile
 - io
 - matplotlib
+- matplotlib.colors
 - seaborn
+- pandas
 
 ## How to run?
-Below is a link to the Binder Environment for this project. It will allow you to run the contents of this lab without generating a new environment locally. (link to come)
+Below is a link to the Binder Environment for this project. It will allow you to run the contents of this lab without generating a new environment locally. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ericamarie9016/FEMA_Hazards/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/ericamarie9016/FEMA_Hazards/HEAD
