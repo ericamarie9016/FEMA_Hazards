@@ -2,7 +2,7 @@
 
 # EDS220 Final Project
 
-## Exploring the Estimated Annual Loss Due to Natural Hazards in the US
+## Exploring the Expected Annual Loss Due to Natural Hazards in the US
 
 #### Student Authors: Alex Reed, Erica Dale, Michelle Lam, and Wen-Tien Wang
 
