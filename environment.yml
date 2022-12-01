@@ -18,4 +18,4 @@ dependencies:
   - seaborn
   - fiona==1.8.19
   - gdal==3.2.2
-  - geos==3.5.0
+  - geos==3.5.1
