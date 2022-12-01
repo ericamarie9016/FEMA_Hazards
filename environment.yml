@@ -16,3 +16,4 @@ dependencies:
   - openblas==0.2.19
   - netcdf4==1.5.1
   - seaborn
+  - fiona==1.8.19
