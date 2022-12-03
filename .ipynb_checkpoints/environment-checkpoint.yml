@@ -7,7 +7,8 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - Fiona==1.8.19
+  - GDAL==3.2.3-cp38-cp38-win_amd64.whl
+  - Fiona==1.8.19‑cp38‑cp38‑win_amd64.whl
   - geopandas
   - contextily
   - rasterio
