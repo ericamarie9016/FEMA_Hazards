@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python
+  - numpy-base==1.23.3
   - numpy
   - matplotlib
   - pandas
