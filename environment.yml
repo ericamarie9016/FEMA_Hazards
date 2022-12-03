@@ -4,8 +4,8 @@ channels:
   - defaults
 dependencies:
   - python
-  - numpy-base==1.23.3-py310h375b286_0
-  - numpy
+  - numpy-base==1.23.3
+  - numpy==1.23.3
   - matplotlib
   - pandas
   - Fiona==1.8.19
